@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omar-mansour">
 
 <h1 align="center">
-  Hi 👋, I'm Omar Mansour
+  Hi 👋, I'm Omar
 </h1>
 
 <h3 align="center">
