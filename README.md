@@ -14,7 +14,7 @@ Embedded Systems & IoT Student | Technical Informatics | C++ | Sensor & Hardware
 
 I am a Technical Informatics student at Rotterdam University of Applied Sciences with a strong passion for embedded systems and smart hardware development.
 
-I enjoy building innovative projects that bridge software and electronics — from sensor-based IoT platforms like the Dynamic Translator Board to automated systems such as the Cash Dispenser Project.
+I enjoy building innovative projects that bridge software and electronics from sensor-based IoT platforms like the Dynamic Translator Board to automated systems such as the Cash Dispenser Project.
 
 💡 I focus on:
 - Embedded systems development  
