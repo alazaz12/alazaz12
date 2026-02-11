@@ -111,8 +111,8 @@ Features:
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link here)
-- Email: (Add your email here)
+- LinkedIn: www.linkedin.com/in/omar-mansour-557289193
+- Email: elhjadel12@gmail.com
 
 ---
 
